@@ -1,2 +1,3 @@
 # chocadeira_arduino
-Chocadeira Utilizando arduino
+Chocadeira Utilizando arduino e Sensores DHT11 
+
